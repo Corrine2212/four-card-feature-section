@@ -15,8 +15,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
     - [What I learned](#what-i-learned)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![screenshot](./images/Frontend%20Mentor%20_%20Four%20card%20feature%20section.png)
 
 ### Links
 
