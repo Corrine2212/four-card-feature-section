@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-iu1FbW_E_O
+- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-using-html-and-css-f2Ia4Ywll_
 - Live page : https://corrine2212.github.io/four-card-feature-section/
 
 ## My process
